@@ -1,0 +1,6 @@
+*.json
+*.p12
+*.pem
+*.class
+keystores/*
+wall/*
